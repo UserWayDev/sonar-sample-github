@@ -61,7 +61,7 @@ jobs:
           # Additional arguments for the sonarcloud scanner
           # https://stackoverflow.com/questions/75531993/github-sonarcloud-action-does-not-scan-any-file
           args: |
-            -Dsonar.projectKey=sonar-sample-gitlab
+            -Dsonar.projectKey=UserWayDev_sonar-sample-github
             -Dsonar.organization=userway-dev-github
             -Dsonar.verbose=true
 
