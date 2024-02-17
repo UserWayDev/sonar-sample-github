@@ -1,3 +1,3 @@
 # test-public-repo
 
-Foo bar 1
+Foo bar 2
